@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetJ3_3 Pin=R1-1
+Removed Pin From Net: NetName=NetJ3_1 Pin=R7-1
+Added Component: Designator=S?(Switch latching spring DPDT)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2267077-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-94 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2267077-2/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/2377537/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=S?-1
+Added Pin To Net: NetName=NetJ3_3 Pin=S?-3
+Added Pin To Net: NetName=GND Pin=S?-4
+Added Pin To Net: NetName=NetJ3_1 Pin=S?-6
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=S?-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=S?-5
+Added Net: Name=NetR7_1
+Added Member To Class: ClassName=Pre-Amp Member=Component S? Switch DPDT
