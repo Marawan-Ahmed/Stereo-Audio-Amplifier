@@ -1,0 +1,337 @@
+Removed Pin From Net: NetName=GND Pin=*-1
+Removed Pin From Net: NetName=GND Pin=*?-1
+Removed Pin From Net: NetName=+12 Pin=C4-1
+Removed Pin From Net: NetName=+12 Pin=C5-1
+Removed Pin From Net: NetName=NetC6_1 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=NetC10_1 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=NetC10_2 Pin=j1-1
+Removed Pin From Net: NetName=+12 Pin=j?-1
+Removed Pin From Net: NetName=+12 Pin=R3-2
+Removed Pin From Net: NetName=NetC11_1 Pin=R8-1
+Removed Pin From Net: NetName=+12 Pin=R8-2
+Removed Pin From Net: NetName=NetC11_1 Pin=R9-1
+Removed Pin From Net: NetName=NetC9_2 Pin=R9-2
+Removed Pin From Net: NetName=NetC10_2 Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=NetC11_1 Pin=R11-2
+Removed Pin From Net: NetName=NetC12_1 Pin=R12-1
+Removed Pin From Net: NetName=NetC10_1 Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=NetC12_1 Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=VD2-1
+Removed Pin From Net: NetName=GND Pin=VD4-1
+Removed Member From Class: ClassName=Amp Member=C13
+Removed Member From Class: ClassName=Amp Member=R10
+Removed Member From Class: ClassName=Amp Member=R11
+Removed Member From Class: ClassName=Amp Member=R12
+Removed Member From Class: ClassName=Amp Member=R13
+Change Component Footprint: Designator=C8 Old Footprint=CAP: AY2102M29Y5US63L7 New Footprint=Cap ceramic TH C025-024X044
+Change Component Footprint: Designator=C4 Old Footprint=CAP: AY2102M29Y5US63L7 New Footprint=Cap ceramic TH C050-025X075
+Change Component Footprint: Designator=C5 Old Footprint=CAP: VY2 New Footprint=Cap ceramic TH C025-024X044
+Change Component Footprint: Designator=C7 Old Footprint=CAP Electrolytic TH D5C2H11 New Footprint=Cap ceramic TH C050-025X075
+Change Component Footprint: Designator=C11 Old Footprint=CAP Electrolytic TH D5C2H11 New Footprint=Cap ceramic TH C050-025X075
+Change Component Footprint: Designator=C12 Old Footprint=CAP Electrolytic TH D5C2H11 New Footprint=Cap ceramic TH C050-025X075
+Change Component Footprint: Designator=R1 Old Footprint=Res TH 1/8w New Footprint=RES TH 0.25W H 0207$10
+Change Component Footprint: Designator=R2 Old Footprint=Res TH 1/8w New Footprint=RES TH 0.25W H 0207$10
+Change Component Footprint: Designator=R3 Old Footprint=Res TH 1/8w New Footprint=RES TH 0.25W H 0207$10
+Change Component Footprint: Designator=R4 Old Footprint=Res TH 1/8w New Footprint=RES TH 0.25W H 0207$10
+Change Component Footprint: Designator=R5 Old Footprint=Res TH 1/8w New Footprint=RES TH 0.25W H 0207$10
+Change Component Footprint: Designator=R6 Old Footprint=Res TH 1/8w New Footprint=RES TH 0.25W H 0207$10
+Change Component Footprint: Designator=R8 Old Footprint=Res TH 1/8w New Footprint=RES TH 0.25W H 0207$10
+Change Component Footprint: Designator=R9 Old Footprint=Res TH 1/8w New Footprint=RES TH 0.25W H 0207$10
+Change Component Footprint: Designator=j? Old Footprint=screw terminal 1x2 New Footprint=screw terminal 1x3
+Change Component Comment : Designator=C2 Old Comment=Aluminium capacitor, 2.2uF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C New Comment=Aluminium capacitor, 22uF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Change Component Comment : Designator=C12 Old Comment=Aluminium capacitor, 2.2uF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C New Comment=Ceramic capacitor, 220nf, X7R, ±10%, 16V, 0201, -55...+125°C
+Change Component Comment : Designator=C7 Old Comment=Aluminium capacitor, 22uF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C New Comment=Ceramic capacitor, 220nf, X7R, ±10%, 16V, 0201, -55...+125°C
+Change Component Comment : Designator=C11 Old Comment=Aluminium capacitor, 22uF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C New Comment=Ceramic capacitor, 220nf, X7R, ±10%, 16V, 0201, -55...+125°C
+Change Component Comment : Designator=C3 Old Comment=Aluminium capacitor, 330µF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C New Comment=Aluminium capacitor, 100µF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Change Component Comment : Designator=C10 Old Comment=Aluminium capacitor, 2200µF, 50V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C New Comment=Aluminium capacitor, 22uF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Change Component Comment : Designator=C6 Old Comment=Aluminium capacitor, 2200µF, 50V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C New Comment=Aluminium capacitor, 100µF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Change Component Comment : Designator=C5 Old Comment=Film capacitor, 220nF, 450VDC, ±10%, 10.9mOhm, 31.5x15 mm, -40...+105°C New Comment=Ceramic capacitor, 100nF, X7R, ±10%, 16V, 0201, -55...+125°C
+Change Component Comment : Designator=C8 Old Comment=Film capacitor, 220nF, 450VDC, ±10%, 10.9mOhm, 31.5x15 mm, -40...+105°C New Comment=Ceramic capacitor, 100nF, X7R, ±10%, 16V, 0201, -55...+125°C
+Change Component Comment : Designator=C4 Old Comment=Film capacitor, 220nF, 450VDC, ±10%, 10.9mOhm, 31.5x15 mm, -40...+105°C New Comment=Ceramic capacitor, 220nf, X7R, ±10%, 16V, 0201, -55...+125°C
+Change Component Comment : Designator=R2 Old Comment=Resistor film, 4.7k, ±5%, 0201, 0.05W, -55...+125°C New Comment=Resistor film, 680R, ±5%, 0201, 0.05W, -55...+125°C
+Change Component Comment : Designator=R9 Old Comment=Resistor film, 100k, ±5%, 0201, 0.05W, -55...+125°C New Comment=Resistor film, 1, ±5%, 0201, 0.05W, -55...+125°C
+Change Component Comment : Designator=R1 Old Comment=Resistor film, 100k, ±5%, 0201, 0.05W, -55...+125°C New Comment=Resistor film, 22k, ±5%, 0201, 0.05W, -55...+125°C
+Change Component Comment : Designator=R3 Old Comment=Resistor film, 100k, ±5%, 0201, 0.05W, -55...+125°C New Comment=Resistor film, 22k, ±5%, 0201, 0.05W, -55...+125°C
+Change Component Comment : Designator=R4 Old Comment=Resistor film, 100k, ±5%, 0201, 0.05W, -55...+125°C New Comment=Resistor film, 22k, ±5%, 0201, 0.05W, -55...+125°C
+Change Component Comment : Designator=R8 Old Comment=Resistor film, 100k, ±5%, 0201, 0.05W, -55...+125°C New Comment=Resistor film, 22k, ±5%, 0201, 0.05W, -55...+125°C
+Change Component Comment : Designator=R6 Old Comment=Resistor film, 100k, ±5%, 0201, 0.05W, -55...+125°C New Comment=Resistor film, 680R, ±5%, 0201, 0.05W, -55...+125°C
+Change Component Comment : Designator=j? Old Comment=screw terminal 1x2 New Comment=screw terminal 1x3
+Change Component Designator: OldDesignator=*? NewDesignator=*1
+Change Component Designator: OldDesignator=j? NewDesignator=j3
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP Electrolytic TH D5C2H11"; UniqueID = "\NBJISHTT" ("\NBJISHTT")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 22uF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP Electrolytic TH D16C7.5H25"; UniqueID = "\CXUFSPXB" ("\CXUFSPXB")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 100µF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "Res TH 1/8w"; UniqueID = "\TJMMUHXW" ("\TJMMUHXW")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0201JR-07100RL/311-100NCT-ND/1949006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.05W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 22k, ±5%, 0201, 0.05W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "Res TH 1/8w"; UniqueID = "\YVODOOYH" ("\YVODOOYH")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0201JR-07100RL/311-100NCT-ND/1949006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.05W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "680R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 680R, ±5%, 0201, 0.05W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "Res TH 1/8w"; UniqueID = "\DJODOQQS" ("\DJODOQQS")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0201JR-07100RL/311-100NCT-ND/1949006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.05W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 22k, ±5%, 0201, 0.05W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "Res TH 1/8w"; UniqueID = "\DJGIWVST" ("\DJGIWVST")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0201JR-07100RL/311-100NCT-ND/1949006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.05W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 22k, ±5%, 0201, 0.05W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "Res TH 1/8w"; UniqueID = "\TQHDAICX" ("\TQHDAICX")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0201JR-07100RL/311-100NCT-ND/1949006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.05W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "680R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 680R, ±5%, 0201, 0.05W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "Res TH 1/8w"; UniqueID = "\UDRYSCGC" ("\UDRYSCGC")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0201JR-07100RL/311-100NCT-ND/1949006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.05W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 22k, ±5%, 0201, 0.05W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "Res TH 1/8w"; UniqueID = "\AMCUGHIB" ("\AMCUGHIB")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0201JR-07100RL/311-100NCT-ND/1949006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.05W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1, ±5%, 0201, 0.05W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAP Electrolytic TH D16C7.5H31.5"; UniqueID = "\FIWBCZBD" ("\FIWBCZBD")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 100µF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAP Electrolytic TH D16C7.5H31.5"; UniqueID = "\MJZYBJXD" ("\MJZYBJXD")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 22uF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP: AY2102M29Y5US63L7"; UniqueID = "\ECBDWYFI" ("\ECBDWYFI")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0201KRX7R7BB103/311-1404-1-ND/2833710"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220nf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 220nf, X7R, ±10%, 16V, 0201, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP: VY2"; UniqueID = "\GDPNAIHG" ("\GDPNAIHG")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0201KRX7R7BB103/311-1404-1-ND/2833710"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 100nF, X7R, ±10%, 16V, 0201, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAP: AY2102M29Y5US63L7"; UniqueID = "\ZHEUIHTM" ("\ZHEUIHTM")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0201KRX7R7BB103/311-1404-1-ND/2833710"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 100nF, X7R, ±10%, 16V, 0201, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAP Electrolytic TH D5C2H11"; UniqueID = "\NCBKKCCB" ("\NCBKKCCB")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0201KRX7R7BB103/311-1404-1-ND/2833710"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220nf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 220nf, X7R, ±10%, 16V, 0201, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAP Electrolytic TH D5C2H11"; UniqueID = "\KWFXMVNJ" ("\KWFXMVNJ")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0201KRX7R7BB103/311-1404-1-ND/2833710"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220nf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 220nf, X7R, ±10%, 16V, 0201, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "CAP Electrolytic TH D5C2H11"; UniqueID = "\ZWDWPLCA" ("\ZWDWPLCA")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0201KRX7R7BB103/311-1404-1-ND/2833710"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220nf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 220nf, X7R, ±10%, 16V, 0201, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "j?" ("j3"); Footprint = "screw terminal 1x2"; UniqueID = "\DYJKHCED" ("\DYJKHCED")
+Change component parameters (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/824/6911017100xx-824072.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/824/6911017100xx-824072.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "16A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "16A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "16.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "PA66"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions Per Level"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "400"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.197inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Plating"; Value = "Steel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.96000, 10=0.86200, 50=0.74500, 100=0.69120 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "WR-TBL Series 101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "955"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stripping Length"; Value = "-7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "732-2027-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Screw"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "16.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge (Max)"; Value = "26AWG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge (Min)"; Value = "14AWG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire/Cable Gauge"; Value = "26AWG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=NetC10_1 Pin=j1-1
+Added Pin To Net: NetName=NetC6_1 Pin=j1-4
+Added Pin To Net: NetName=+12 Pin=j3-3
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetC9_2 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetC11_1 Pin=R5-1
+Added Pin To Net: NetName=NetC6_1 Pin=R5-2
+Added Pin To Net: NetName=NetC10_2 Pin=R6-2
+Added Pin To Net: NetName=NetC10_1 Pin=R8-2
+Added Pin To Net: NetName=NetC12_1 Pin=R9-1
+Added Pin To Net: NetName=NetC10_1 Pin=R9-2
+Change Net Name : Old Net Name=+12 New Net Name=Vs
+Change Net Name : Old Net Name=NetC6_1 New Net Name=Netj1_4
+Change Net Name : Old Net Name=NetC10_1 New Net Name=Netj1_1
+Added Pin To Net: NetName=-Vs Pin=*-1
+Added Pin To Net: NetName=-Vs Pin=*1-1
+Added Pin To Net: NetName=-Vs Pin=C6-2
+Added Pin To Net: NetName=-Vs Pin=C7-2
+Added Pin To Net: NetName=-Vs Pin=C8-2
+Added Pin To Net: NetName=-Vs Pin=j3-1
+Added Pin To Net: NetName=-Vs Pin=U1-3
+Added Pin To Net: NetName=-Vs Pin=U2-3
+Added Pin To Net: NetName=-Vs Pin=VD2-1
+Added Pin To Net: NetName=-Vs Pin=VD4-1
+Added Net: Name=-Vs
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=R8-1
+Added Pin To Net: NetName=NetC10_1 Pin=U2-2
+Added Net: Name=NetC10_1
+Added Room: Name=Amp

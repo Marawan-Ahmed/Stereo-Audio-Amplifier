@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=Netj1_1 Pin=VD1-2
+Added Pin To Net: NetName=NetC2_1 Pin=VD3-2
+Added Member To Class: ClassName=Power supply Member=Component C3 Film capacitor, 220nF, 450VDC, ±10%, 10.9mOhm, 31.5x15 mm, -40...+105°C
+Added Member To Class: ClassName=Power supply Member=Component j1 screw terminal 1x3
+Added Member To Class: ClassName=Power supply Member=Component VD3 Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C

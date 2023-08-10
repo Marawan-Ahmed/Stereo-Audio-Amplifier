@@ -1,0 +1,50 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=j? NewDesignator=j1
+Change Component Designator: OldDesignator=j? NewDesignator=j2
+Change Component Designator: OldDesignator=j? NewDesignator=j3
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=VD? NewDesignator=VD1
+Change Component Designator: OldDesignator=VD? NewDesignator=VD2
+Change Component Designator: OldDesignator=VD? NewDesignator=VD3
+Change Component Designator: OldDesignator=VD? NewDesignator=VD4
+Change Component Designator: OldDesignator=VD? NewDesignator=VD5
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=Netj?_1 New Net Name=Netj1_1
+Change Net Name : Old Net Name=Netj?_3 New Net Name=Netj1_3
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR1_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=C7-2
+Added Pin To Net: NetName=NetC5_2 Pin=j3-3
+Added Pin To Net: NetName=NetC5_2 Pin=R1-1
+Added Pin To Net: NetName=NetC5_2 Pin=U1-3
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=C8-1
+Added Pin To Net: NetName=NetC6_1 Pin=j3-1
+Added Pin To Net: NetName=NetC6_1 Pin=U2-2
+Added Pin To Net: NetName=NetC6_1 Pin=VD5-1
+Added Net: Name=NetC6_1
+Added Member To Class: ClassName=Power supply Member=Component C1 Aluminium capacitor, 2200µF, 50V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Power supply Member=Component C2 Aluminium capacitor, 2200µF, 50V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Power supply Member=Component C4 Film capacitor, 220nF, 450VDC, ±10%, 10.9mOhm, 31.5x15 mm, -40...+105°C
+Added Member To Class: ClassName=Power supply Member=Component C5 Film capacitor, 100nF, 450VDC, ±10%, 10.9mOhm, 31.5x15 mm, -40...+105°C
+Added Member To Class: ClassName=Power supply Member=Component C6 Film capacitor, 100nF, 450VDC, ±10%, 10.9mOhm, 31.5x15 mm, -40...+105°C
+Added Member To Class: ClassName=Power supply Member=Component C7 Aluminium capacitor, 470µF, 16V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Power supply Member=Component C8 Aluminium capacitor, 470µF, 16V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Power supply Member=Component j2 screw terminal 1x3
+Added Member To Class: ClassName=Power supply Member=Component j3 screw terminal 1x3
+Added Member To Class: ClassName=Power supply Member=Component U1 7912
+Added Member To Class: ClassName=Power supply Member=Component VD1 Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C
+Added Member To Class: ClassName=Power supply Member=Component VD2 Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C
+Added Member To Class: ClassName=Power supply Member=Component VD4 Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C
+Added Member To Class: ClassName=Power supply Member=Component VD5 LED, Green, *, *, *, -55...+150°C

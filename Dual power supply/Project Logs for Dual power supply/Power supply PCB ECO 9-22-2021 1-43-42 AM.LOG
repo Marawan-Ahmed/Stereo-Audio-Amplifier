@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC6_1 Pin=U2-2
+Change Component Comment : Designator=U2 Old Comment=7812 New Comment=78XX
+Change Component Comment : Designator=U1 Old Comment=7912 New Comment=79XX
+Added Pin To Net: NetName=NetC6_1 Pin=U2-3
+Added Member To Class: ClassName=Power supply Member=Component H? Heatsink 1 pad transistor TO220
+Added Room: Name=Power supply

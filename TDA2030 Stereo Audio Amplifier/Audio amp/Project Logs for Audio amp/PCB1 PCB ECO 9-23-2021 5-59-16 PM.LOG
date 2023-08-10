@@ -1,0 +1,5 @@
+Added Component: Designator=*?(Heastsink 1 pad D01PA-PAD)
+Added Component: Designator=*(Heastsink 1 pad D01PA-PAD)
+Added Pin To Net: NetName=-Vs Pin=*?-1
+Added Member To Class: ClassName=Amp Member=Component *? Heatsink 1 pad transistor TO220
+Added Member To Class: ClassName=Amp Member=Component * Heatsink 1 pad transistor TO220

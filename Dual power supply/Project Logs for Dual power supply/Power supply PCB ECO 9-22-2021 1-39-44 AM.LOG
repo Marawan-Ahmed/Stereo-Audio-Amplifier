@@ -1,0 +1,8 @@
+Added Component: Designator=H?(Heatsink 1 pad SK95-2M3)
+Added Component: Designator=H?(Heatsink 1 pad SK95-2M3)
+Added Pin To Net: NetName=GND Pin=H?-1
+Added Pin To Net: NetName=NetC5_2 Pin=H?-1
+Added Member To Class: ClassName=Power supply Member=Component C2 Aluminium capacitor, 2200µF, 50V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Power supply Member=Component H? Heatsink 1 pad transistor TO220
+Added Member To Class: ClassName=Power supply Member=Component H? Heatsink 1 pad transistor TO220
+Added Room: Name=Power supply

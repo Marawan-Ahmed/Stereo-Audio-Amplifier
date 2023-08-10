@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=VD?-1
+Added Pin To Net: NetName=NetC?_1 Pin=VD?-2
+Added Member To Class: ClassName=Amp Member=Component C? Aluminium capacitor, 2.2uF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Amp Member=Component C? Aluminium capacitor, 22uF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Amp Member=Component C? Aluminium capacitor, 2200µF, 50V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Amp Member=Component C? Aluminium capacitor, 2.2uF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Amp Member=Component R? Resistor film, 100k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Amp Member=Component R? Resistor film, 100k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Amp Member=Component R? Resistor film, 100k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Amp Member=Component R? Resistor film, 100k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Amp Member=Component R? Resistor film, 4.7k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Amp Member=Component VD? Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C

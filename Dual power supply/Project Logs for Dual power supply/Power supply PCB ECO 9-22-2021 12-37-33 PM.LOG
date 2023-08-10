@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=U2-3
+Change Component Comment : Designator=U2 Old Comment=78XX New Comment=7812
+Change Component Comment : Designator=U1 Old Comment=79XX New Comment=7912
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetC6_1 Pin=U2-3
+Added Room: Name=Power supply

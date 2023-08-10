@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Dual power supply.PrjPcb]
+   Generated File[Power supply.GBL]
+   Generated File[Power supply.GBS]
+   Generated File[Power supply.GBP]
+   Generated File[Power supply.GBO]
+   Generated File[Power supply.GPB]
+   Generated File[Power supply.RUL]
+   Generated File[Power supply.EXTREP]
+   Generated File[Power supply.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 12:31:13 PM On 9/23/2021

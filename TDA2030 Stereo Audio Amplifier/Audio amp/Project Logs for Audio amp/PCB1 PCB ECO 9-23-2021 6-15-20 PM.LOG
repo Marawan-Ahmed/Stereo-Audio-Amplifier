@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=*1 Old Footprint=Heastsink 1 pad D01PA-PAD New Footprint=Heatsink 1 pad SK95-2M3
+Change Component Footprint: Designator=* Old Footprint=Heastsink 1 pad D01PA-PAD New Footprint=Heatsink 1 pad SK95-2M3
+Added Component: Designator=R7(Res VAR POT  TH 2 gang PDB182)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/bourns-inc/3296W-1-103LF/3296W-103LF-ND/1088045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3296W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "3296W-1-103LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 10k, , 3296W, 0.5W, -55...+125°C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetC6_1 Pin=R7-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R7-3
+Added Pin To Net: NetName=NetJ2_3 Pin=R7-4
+Added Pin To Net: NetName=NetC3_1 Pin=R7-5
+Added Pin To Net: NetName=GND Pin=R7-6
+Added Member To Class: ClassName=Amp Member=Component C10 Aluminium capacitor, 22uF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Amp Member=Component R7 Resistor film, 10k, , 3296W, 0.5W, -55...+125°C

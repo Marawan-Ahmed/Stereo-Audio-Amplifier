@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=FU1 Old Footprint=FUSE TH 4527 New Footprint=FUSE TH BLX-A
+Change Component Footprint: Designator=FU2 Old Footprint=FUSE TH 4527 New Footprint=FUSE TH BLX-A
+Added Room: Name=Power supply

@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NetC6_2 Pin=j2-1
+Removed Pin From Net: NetName=NetC10_2 Pin=j2-3
+Removed Pin From Net: NetName=GND Pin=j2-4
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C5
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C7
+Change Component Designator: OldDesignator=C5 NewDesignator=C1
+Change Component Designator: OldDesignator=C6 NewDesignator=C8
+Change Component Designator: OldDesignator=C7 NewDesignator=C2
+Change Component Designator: OldDesignator=C8 NewDesignator=C6
+Change Component Designator: OldDesignator=C9 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C9
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=j2 NewDesignator=j1
+Change Component Designator: OldDesignator=j?1 NewDesignator=j?
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R1
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R9 NewDesignator=R13
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R13 NewDesignator=R10
+Change Component Designator: OldDesignator=VD1 NewDesignator=VD2
+Change Component Designator: OldDesignator=VD2 NewDesignator=VD1
+Added Pin To Net: NetName=NetC10_2 Pin=j1-1
+Added Pin To Net: NetName=GND Pin=j1-3
+Added Pin To Net: NetName=NetC6_2 Pin=j1-4
+Added Member To Class: ClassName=Amp Member=Component C1 Aluminium capacitor, 2.2uF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Amp Member=Component C4 Film capacitor, 220nF, 450VDC, ±10%, 10.9mOhm, 31.5x15 mm, -40...+105°C
+Added Member To Class: ClassName=Amp Member=Component C5 Film capacitor, 220nF, 450VDC, ±10%, 10.9mOhm, 31.5x15 mm, -40...+105°C
+Added Member To Class: ClassName=Amp Member=Component C7 Aluminium capacitor, 22uF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Amp Member=Component C8 Film capacitor, 220nF, 450VDC, ±10%, 10.9mOhm, 31.5x15 mm, -40...+105°C
+Added Member To Class: ClassName=Amp Member=Component C11 Aluminium capacitor, 22uF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=Amp Member=Component R1 Resistor film, 100k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Amp Member=Component R6 Resistor film, 100k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Amp Member=Component R7 Resistor film, =Value, , 3296W, 0.5W, -55...+125°C
+Added Member To Class: ClassName=Amp Member=Component R9 Resistor film, 100k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Amp Member=Component R13 Resistor film, 4.7k, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=Amp Member=Component VD2 Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C
+Added Room: Name=Amp
